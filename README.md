@@ -54,6 +54,11 @@ The project presentation is available [here](./docs/Agrilink-Presentation.pptx).
    ```bash
    git push -u origin master
 
+## Note:
+***This is a Minimal Viable Product (MVP) prototype developed for the Hack2Skill Hackathon. It showcases the core features and functionality of Agrilink with minimal implementation. If we advance to Round 3, we plan to complete and enhance Agrilink, adding more advanced features, improving the user interface, and ensuring a robust and fully functional platform that truly empowers smallholder farmers.***
+
+**Thank you for considering Agrilink. We look forward to potentially bringing this project to its full potential in the next phase of the hackathon.**
+
 
   
 
