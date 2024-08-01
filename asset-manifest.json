@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Agrilink-Hackathon/static/css/main.9a60caff.css",
+    "main.js": "/Agrilink-Hackathon/static/js/main.c845df3f.js",
+    "static/media/offer.jpg": "/Agrilink-Hackathon/static/media/offer.1afc4ca019231b1a7e3e.jpg",
+    "static/media/about.jpg": "/Agrilink-Hackathon/static/media/about.d43f79af9a0dc267ce08.jpg",
+    "static/media/banner.jpg": "/Agrilink-Hackathon/static/media/banner.891a7a9604358beed36c.jpg",
+    "static/media/image1.png": "/Agrilink-Hackathon/static/media/image1.12862b251d526f3327e3.png",
+    "static/media/logo.png": "/Agrilink-Hackathon/static/media/logo.15b5a6243d581224e72a.png",
+    "static/media/image2.png": "/Agrilink-Hackathon/static/media/image2.d38cae02da7172f7378f.png",
+    "index.html": "/Agrilink-Hackathon/index.html",
+    "main.9a60caff.css.map": "/Agrilink-Hackathon/static/css/main.9a60caff.css.map",
+    "main.c845df3f.js.map": "/Agrilink-Hackathon/static/js/main.c845df3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a60caff.css",
+    "static/js/main.c845df3f.js"
+  ]
+}
