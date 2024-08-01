@@ -12,7 +12,7 @@ This Repo Contains the PROTOTYPE of Agrilink Website Which is a Part of Round 2 
 ![Screenshot 5](./agrilink-website/docs/s-5.png)
 
 ## Presentation
-The project presentation is available [here](./docs/Round2ppt.pptx).
+The project presentation is available [here](./agrilink-website/docs/Round2ppt.pptx).
 
 ## Demo Video
 Watch our demo video to see Agrilink in action: Demo Video [Link](https://www.canva.com/design/DAGMnnBG-KE/p6DA6Pqij1J3CSEvIh1zzA/watch?utm_content=DAGMnnBG-KE&utm_campaign=designshare&utm_medium=link&utm_source=editor).
