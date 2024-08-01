@@ -12,6 +12,9 @@ This Repo Contains the PROTOTYPE of Agrilink Website Which is a Part of Round 2 
 ## Presentation
 The project presentation is available [here](./docs/Agrilink-Presentation.pptx).
 
+## Demo Video
+Watch our demo video to see Agrilink in action: Demo Video Link
+
 ## Setup Instructions
 1. Clone the repository:
    ```bash
