@@ -5,9 +5,11 @@ This Repo Contains the PROTOTYPE of Agrilink Website Which is a Part of Round 2 
 **Agrilink** is a comprehensive web application designed to empower smallholder farmers by bridging the gap between them and potential buyers, including consumers and businesses. Developed for the Hack2Skill Hackathon, Agrilink aims to solve the pressing issues of market access, awareness of government schemes, and timely alerts about potential agricultural damage.
 
 ## Screenshots
-![Screenshot 1](./docs/screenshot1.png)
-![Screenshot 2](./docs/screenshot2.png)
-![Screenshot 3](./docs/screenshot3.png)
+![Screenshot 1](./agrilink-website/docs/s-1.png)
+![Screenshot 2](./agrilink-website/docs/s-2.png)
+![Screenshot 3](./agrilink-website/docs/s-3.png)
+![Screenshot 4](./agrilink-website/docs/s-4.png)
+![Screenshot 5](./agrilink-website/docs/s-5.png)
 
 ## Presentation
 The project presentation is available [here](./docs/Agrilink-Presentation.pptx).
